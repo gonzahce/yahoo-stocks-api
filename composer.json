@@ -1,0 +1,6 @@
+{
+    "require": {
+        "scheb/yahoo-finance-api": "^2.0",
+        "larapack/dd": "1.*"
+    }
+}
