@@ -21,6 +21,6 @@ $exchangeRates = $client->getExchangeRates([
     ["EUR", "USD"],
 ]);
 
-dd($exchangeRates);
+dd($exchangeRate);
 
 ?>
