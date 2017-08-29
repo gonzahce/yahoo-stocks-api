@@ -1,7 +1,7 @@
 <?php 
 
-require "vendor/larapack/dd/src/helper.php";
-require "vendor/autoload.php";
+require('vendor/larapack/dd/src/helper.php');
+require('vendor/autoload.php');
 
 use Scheb\YahooFinanceApi\ApiClient;
 use Scheb\YahooFinanceApi\ApiClientFactory;
@@ -21,6 +21,6 @@ $exchangeRates = $client->getExchangeRates([
     ["EUR", "USD"],
 ]);
 
-dd($exchangeRates);
+dd($quote);
 
 ?>
