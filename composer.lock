@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "ca81844fba2e2ba51a708174b873d7cc",
+    "hash": "f42a176a17ff7736b0b622859950ad90",
     "content-hash": "35d8a3d5697f81b4e22fc8c29cb1d22a",
     "packages": [
         {
@@ -276,16 +276,16 @@
         },
         {
             "name": "scheb/yahoo-finance-api",
-            "version": "v2.0.0",
+            "version": "v2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/scheb/yahoo-finance-api.git",
-                "reference": "1ec85e9d72d140de5aa8b85ce38a6a99f774e623"
+                "reference": "8b1ce5fdda0b7c6feb22d16e24abd09e7a0c96b3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/scheb/yahoo-finance-api/zipball/1ec85e9d72d140de5aa8b85ce38a6a99f774e623",
-                "reference": "1ec85e9d72d140de5aa8b85ce38a6a99f774e623",
+                "url": "https://api.github.com/repos/scheb/yahoo-finance-api/zipball/8b1ce5fdda0b7c6feb22d16e24abd09e7a0c96b3",
+                "reference": "8b1ce5fdda0b7c6feb22d16e24abd09e7a0c96b3",
                 "shasum": ""
             },
             "require": {
@@ -320,7 +320,7 @@
                 "stock",
                 "yahoo"
             ],
-            "time": "2017-08-10 19:58:34"
+            "time": "2017-08-31 16:00:58"
         },
         {
             "name": "symfony/polyfill-mbstring",
