@@ -21,10 +21,7 @@ $exchangeRates = $client->getExchangeRates([
     ["EUR", "USD"],
 ]);
 
-<<<<<<< HEAD
 dd($quote);
-=======
 dd($exchangeRate);
->>>>>>> origin/master
 
 ?>
