@@ -1,7 +1,8 @@
 <?php 
 
-require('vendor/larapack/dd/src/helper.php');
-require('vendor/autoload.php');
+require 'vendor/autoload.php'
+
+namespace App\Yahoo;
 
 use Scheb\YahooFinanceApi\ApiClient;
 use Scheb\YahooFinanceApi\ApiClientFactory;
